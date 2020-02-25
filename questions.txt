@@ -1,0 +1,6 @@
+1) Flask and Django are both Python web frameworks. Flask is more light weight and has less features but is easier to set up. Things like models, views, and the admin interface are not present in flask by default. 
+2) Representational state transfer. Web services that follow the REST style are called RESTful. 
+3) Create (PUT), Read (GET), Update (PUT), Delete (DELETE). 
+4) 1XX = informational, 2XX = Success, 3XX = Redirection, 4XX = Client Error, 5XX = Server Error
+5) Cross site scripting attack. If there is a text field where the value of the text field is used in a database query without any filtering, a user can inject some database queries in this field that can delete the data.
+6) Cross origin resource sharing. When a website on one domain wishes to access information from another domain, the other domain needs to allow it to be able to access the content using CORS headers. It is used for communication across origins.
